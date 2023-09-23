@@ -42,7 +42,7 @@ void loadDictionary(string fileName, unordered_set<string> & dictionary)
 
 int main(){
 
-	string puzzleIQ = "stackof_puzzle.txt"; //<---- FEEL FREE TO CHANGE WHICH FILE THE ALGORITHM CONSIDERS!
+	string puzzleIQ = "simplepuzzle2.txt"; //<---- FEEL FREE TO CHANGE WHICH FILE THE ALGORITHM CONSIDERS!
 
 	size_t gridWidth = 0;
 	size_t gridHeight = 0;
